@@ -1,7 +1,7 @@
 ####
 boto
 ####
-boto 2.42.0
+boto 2.47.0
 
 Patched build by Maestro Healthcare Technologies: this is forked from
 `tpodowd/boto`, with his `fix_broken_sigv4_signature` branch merged to
@@ -18,7 +18,7 @@ things (notably the install instructions) don't apply to this fork.
 -----
 
 
-Released: 19-Jul-2016
+Released: 24-May-2017
 
 .. image:: https://travis-ci.org/boto/boto.svg?branch=develop
         :target: https://travis-ci.org/boto/boto
