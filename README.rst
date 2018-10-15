@@ -1,18 +1,18 @@
 ####
 boto
 ####
-boto 2.47.0
+boto 2.47.0+maestro1
 
 Patched build by Maestro Healthcare Technologies: this is forked from
 `tpodowd/boto`, with his `fix_broken_sigv4_signature` branch merged to
-master, and then master updated to 2.42.0 from the main `boto/boto`
+master, and then master updated to 2.47.0 from the main `boto/boto`
 master.
 
 The version patch number has been set to 1000 to distinguish it from the
 mainline version, and to ensure that our developers' workstations update
-to this version from 2.42.0 properly.
+to this version from 2.47.0 properly.
 
-The rest of this README is the original boto 2.42.0 README, and some 
+The rest of this README is the original boto 2.47.0 README, and some 
 things (notably the install instructions) don't apply to this fork.
 
 -----
